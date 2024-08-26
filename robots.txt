@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olyconor.github.io/sitemap.html.gz
+Sitemap: https://olyconor.github.io/app/sitemap.html.gz
+Sitemap: https://olyconor.github.io/assets/sitemap.html.gz
+Sitemap: https://olyconor.github.io/css/sitemap.html.gz
+Sitemap: https://olyconor.github.io/includes/sitemap.html.gz
+Sitemap: https://olyconor.github.io/item/sitemap.html.gz
+Sitemap: https://olyconor.github.io/src/sitemap.html.gz
